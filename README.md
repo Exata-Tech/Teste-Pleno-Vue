@@ -8,7 +8,7 @@ O objetivo deste teste é avaliar suas habilidades como desenvolvedor FrontEnd u
 - **Leitura de Dados**: Leia os dados do arquivo JSON pré-definido.
 - **Exibição de Dados**: Exiba os dados em uma tabela ou lista na interface do usuário.
 - **Filtragem de Dados**: Se aplicavel, implemente uma funcionalidade que permita ao usuário filtrar os dados exibidos baseado em critérios específicos.
-- **Ordenação de Dados**: Implemente uma funcionalidade que permita ao usuário ordenar os dados exibidos.
+- **Ordenação de Dados**: Se aplicavel, implemente uma funcionalidade que permita ao usuário ordenar os dados exibidos.
 # Instruções de Submissão
 Faça um fork deste repositório.
 Desenvolva a aplicação conforme descrito acima.
